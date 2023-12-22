@@ -1,4 +1,5 @@
-
+Student Name: Rutuja Vartak   
+Class: SEMINAR PUBLIC INFORMATICS - Command Line Geographic Information System
 
 The datasets used to create the maps were sourced from the Census, City of New York's open data portal, specifically the Housing Maintenance Code Violations and New York Homes and Community Renewal Asset Map. The datasets include information on median gross rent by census tract and public housing portfolios with HPD violation data for New York City. The data on violations are prepared and maintained by the Department of Housing Preservation and Development (HPD) and are updated daily. In contrast, the housing portfolios are updated each quarter.
 
