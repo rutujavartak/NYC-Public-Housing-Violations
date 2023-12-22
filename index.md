@@ -8,6 +8,7 @@ The total number of violations is 8.3 million; however, I have filtered for haza
 During the process, I addressed data quality issues while joining violations to portfolios, such as varying column names and datatypes for property names, BIN values, etc. I tried various symbols, but the HTML was too large for GitHub, so I stuck with circular dots and clustered them to reduce the file size. The resulting maps provide insights into the spatial patterns of housing portfolios, violations within each of them and their details, as well as median gross rent and population density in New York City.
 
 ![Image 1](Static_Map_1.png)
+
 ![Image 2](Static_Map_2.jpeg)
 
 <iframe src='Public_Housing_Violations_NYC.html' width = '900' height = '850' ></iframe>
