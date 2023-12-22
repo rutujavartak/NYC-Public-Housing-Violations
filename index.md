@@ -1,4 +1,3 @@
-# HPD Violations in Public Housing NYC Interactive Map
 
 
 The datasets used to create the maps were sourced from the Census, City of New York's open data portal, specifically the Housing Maintenance Code Violations and New York Homes and Community Renewal Asset Map. The datasets include information on median gross rent by census tract and public housing portfolios with HPD violation data for New York City. The data on violations are prepared and maintained by the Department of Housing Preservation and Development (HPD) and are updated daily. In contrast, the housing portfolios are updated each quarter.
@@ -10,6 +9,8 @@ During the process, I addressed data quality issues while joining violations to 
 ![Image 1](Static_Map_1.png)
 
 ![Image 2](Static_Map_2.jpeg)
+
+# HPD Violations in Public Housing NYC Interactive Map
 
 <iframe src='Public_Housing_Violations_NYC.html' width = '900' height = '850' ></iframe>
 
